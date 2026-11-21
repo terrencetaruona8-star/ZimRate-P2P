@@ -1,0 +1,10 @@
+{
+  "name": "ZimRate & P2P — Live EcoCash & Deriv Rates",
+  "short_name": "ZimRate P2P",
+  "description": "Live EcoCash ZiG/USD rates, Deriv P2P prices, IMTT tax calculator, and verified Zimbabwe P2P agents.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#065f46",
+  "orientation": "portrait"
+}
